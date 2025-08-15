@@ -21,7 +21,7 @@ export default function TerminalBox() {
             time: new Date().toLocaleTimeString(),
         },
     ]);
-    const dummyRef = useRef(null); // Removed HTMLDivElement type annotation
+    const dummyRef = useRef(null); 
 
     useEffect(() => {
         dummyRef.current?.scrollIntoView({ behavior: "auto" });

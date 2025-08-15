@@ -67,7 +67,7 @@ export default function Aboutme() {
         </div>
       </div>
       <p>
-        I am Harsh Singh, currently pursuing a Bachelor’s degree in Computer Science Engineering from Panjab University, Chandigarh. With a deep passion for technology and innovation, I have honed my skills in web development, AI integration, and competitive programming. My experience spans both backend and frontend development, leveraging modern technologies like React, Node.js, and MongoDB, alongside creating intuitive user experiences.
+      I am Harsh Singh, a Computer Science Engineering graduate from Panjab University, Chandigarh. With a deep passion for technology and innovation, I have honed my skills in web development, AI integration, and competitive programming. My experience spans both backend and frontend development, leveraging modern technologies like React, Node.js, and MongoDB, alongside creating intuitive user experiences.
       </p>
       
       <button 

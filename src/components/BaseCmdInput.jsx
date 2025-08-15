@@ -36,7 +36,7 @@ export default function BaseCmdInput({ children, cmdStatus }) {
                 <div className="w-2 h-2 bg-black-500 mr-2"></div>
 
                 {/* Terminal Prompt Sign ($ or >>>) */}
-                <h1 className="text-green-500 font-mono text-lg mr-2"></h1> 
+                <h1 className="text-red-500 font-mono text-lg mr-2"></h1> 
 
                 {/* Command Input */}
                 <div className="flex-grow">{children}</div>
